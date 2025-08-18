@@ -5,7 +5,7 @@ Windows 환경에서 **Ultralytics YOLOv11** 프레임워크를 활용하여
 Google Colab 환경에서 무료로 학습을 수행하고, 최종 변환된 TensorRT 엔진을 통해 고속 추론이 가능합니다.
 
 ---
-<img width="1445" height="789" alt="image" src="https://github.com/user-attachments/assets/235441ce-038d-432f-b5d8-2eb17082eb32" />
+<img width="1437" height="793" alt="image" src="https://github.com/user-attachments/assets/523c2e8f-2b05-42fc-a064-b3e87c78cde7" />
 
 ## 📦 프로젝트 개요
 
